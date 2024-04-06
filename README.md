@@ -10,7 +10,7 @@ I'm currently working on creating a web based e-reader and language learning pla
 
 ## Contact
 
-[LinkedIn](www.linkedin.com/in/markus-r-18160a29a)
+[LinkedIn](https://www.linkedin.com/in/markus-r-18160a29a)
 
 <!--
 **Pastoro/Pastoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
